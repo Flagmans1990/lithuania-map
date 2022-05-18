@@ -1,0 +1,73 @@
+path.alytaus-apskritis  {
+    fill: hsla(270, 100%, 87%, 1);
+}
+path.kauno-apskritis {
+    fill: hsla(249, 77%, 77%, 1);
+}
+path.vilniaus-apskritis {
+    fill: hsla(260, 69%, 77%, 1);
+}
+path.utenos-apskritis {
+    fill: hsla(276, 100%, 79%, 1);
+}
+path.siauliu-apskritis {
+    fill: hsla(271, 85%, 81%, 1);
+}
+path.telsiu-apskritis {
+    fill: hsla(264, 100%, 75%, 1);
+}
+path.taurages-apskritis {
+    fill: hsla(286, 56%, 72%, 1);
+}
+path.panevezio-apskritis {
+    fill: hsla(286, 83%, 79%, 1);
+}
+path.klaipedos-apskritis, polyline.klaipedos-apskritis {
+    fill: hsla(274, 100%, 75%, 1);
+}
+path.marijampoles-apskritis {
+    fill: hsla(240, 100%, 86%, 1);
+}
+
+a > *:hover {
+    opacity: 0.7;
+}
+
+a[title='Vilniaus miesto savivaldybė'] > * {
+    fill: hsla(260, 69%, 70%, 1);
+}
+a[title='Kauno miesto savivaldybė'] > * {
+    fill: hsla(249, 77%, 70%, 1);
+}
+a[title='Alytaus miesto savivaldybė'] > * {
+    fill: hsla(270, 100%, 80%, 1);
+}
+a[title='Šiaulių miesto savivaldybė'] > * {
+    fill: hsla(271, 85%, 74%, 1);
+}
+a[title='Panevėžio miesto savivaldybė'] > * {
+    fill: hsla(286, 83%, 72%, 1);
+}
+a[title='Klaipėdos miesto savivaldybė'] > * {
+    fill: hsla(274, 100%, 68%, 1);
+}
+
+
+a[title='Vilniaus miesto savivaldybė'] > *:hover {
+    fill: hsla(260, 69%, 84%, 1);
+}
+a[title='Kauno miesto savivaldybė'] > *:hover {
+    fill: hsla(249, 77%, 84%, 1);
+}
+a[title='Alytaus miesto savivaldybė'] > *:hover {
+    fill: hsla(270, 100%, 94%, 1);
+}
+a[title='Šiaulių miesto savivaldybė'] > *:hover {
+    fill: hsla(271, 85%, 88%, 1);
+}
+a[title='Panevėžio miesto savivaldybė'] > *:hover {
+    fill: hsla(286, 83%, 86%, 1);
+}
+a[title='Klaipėdos miesto savivaldybė'] > *:hover {
+    fill: hsla(274, 100%, 82%, 1);
+}
